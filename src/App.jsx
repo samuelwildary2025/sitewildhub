@@ -8,7 +8,6 @@ import Services from '@/pages/Services';
 import Technologies from '@/pages/Technologies';
 import CaseStudies from '@/pages/CaseStudies';
 import Contact from '@/pages/Contact';
-import Backup from '@/pages/Backup';
 import NeuralNetworkBackground from '@/components/NeuralNetworkBackground';
 import Footer from '@/components/Footer';
 
